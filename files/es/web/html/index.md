@@ -1,11 +1,11 @@
 ---
-title: "HTML: Lenguaje de etiquetas de hipertexto"
+title: "HTML: Lenguaje de marcado de hipertexto"
 slug: Web/HTML
 ---
 
 {{HTMLSidebar}}
 
-**HTML** (Lenguaje de Marcas de Hipertexto, del inglés _HyperText Markup Language_) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web ([CSS](/es/docs/Web/CSS)) o la funcionalidad/comportamiento ([JavaScript](/es/docs/Web/JavaScript)).
+**HTML** (Lenguaje de Marcado de Hipertexto, del inglés _HyperText Markup Language_) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web ([CSS](/es/docs/Web/CSS)) o la funcionalidad/comportamiento ([JavaScript](/es/docs/Web/JavaScript)).
 
 "Hipertexto" hace referencia a los enlaces que conectan páginas web entre sí, ya sea dentro de un único sitio web o entre sitios web. Los enlaces son un aspecto fundamental de la Web. Al subir contenido a Internet y vincularlo a las páginas creadas por otras personas, te conviertes en un participante activo en la «_World Wide Web_» (Red Informática Mundial).
 
